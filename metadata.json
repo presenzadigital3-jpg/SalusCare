@@ -1,0 +1,6 @@
+{
+  "name": "SalusCare Platform",
+  "description": "SalusCare Digital Health Intelligence Platform: an integrated, end-to-end hospital operational control tower and patient experience app.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
